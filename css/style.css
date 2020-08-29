@@ -18,7 +18,7 @@ header li:last-child{margin-right: 0;}
 }
 
 /*HERO*/
-.hero{background-image: url(../img/principal.png);  background-size: cover;  min-height: 100vh;  color: #fff;
+.hero{background-image: url(../img/6894316.jpg);  background-size: cover;  min-height: 100vh;  color: #fff;
   display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;}
 .hero h1 {font-size: 3.2rem; margin-bottom: 15px;}
 .hero h3{font-size: 2rem; margin-bottom: 15px;}
